@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS public.cadastro (    id SERIAL PRIMARY KEY,    nome VARCHAR(100) NOT NULL,    idade INTEGER NOT NULL);
